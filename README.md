@@ -12,7 +12,6 @@ Using provider to handle the switch.
 - DevTools 2.42.3
 - Gradle: 8.10.0
 - Kotlin: 2.0.20
-- Apple Xcode:
 - Cocoapods:
 
 # Build on / Updated on:
